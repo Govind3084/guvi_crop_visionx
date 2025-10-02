@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "Crop Vision X",
+    "home": "Home",
+    "market": "Market",
+    "community": "Community",
+    "schemes": "Government Schemes"
+  },
+  "plant_scanner": {
+    "title": "Plant Scanner",
+    "scan_button": "Scan Plant",
+    "take_photo": "Take Photo",
+    "select_photo": "Select Photo",
+    "analyzing": "Analyzing image...",
+    "result": "Analysis Result",
+    "disease": "Disease",
+    "confidence": "Confidence",
+    "no_disease": "No disease detected"
+  },
+  "fertilizer": {
+    "title": "Fertilizer Calculator",
+    "crop_type": "Crop Type",
+    "area": "Area (in acres)",
+    "soil_type": "Soil Type",
+    "calculate": "Calculate",
+    "result": "Recommended Fertilizer",
+    "n": "Nitrogen (N)",
+    "p": "Phosphorus (P)",
+    "k": "Potassium (K)",
+    "select_crop_soil": "Select Crop and Soil Type",
+    "ph_range": "pH Range",
+    "irrigation": "Irrigation Interval",
+    "select_crop": "Select Crop",
+    "select_soil": "Select Soil Type",
+    "enter_area": "Enter Area",
+    "calculate_btn": "Calculate Fertilizer Needs"
+  },
+  "weather": {
+    "title": "Weather",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "wind": "Wind Speed",
+    "description": "Description"
+  },
+  "market": {
+    "title": "Market Prices",
+    "crop": "Crop",
+    "price": "Price",
+    "market_name": "Market Name",
+    "date": "Date",
+    "search": "Search Markets"
+  },
+  "community": {
+    "title": "Farmer Community",
+    "posts": "Posts",
+    "create_post": "Create Post",
+    "your_question": "Your Question",
+    "description": "Description",
+    "submit": "Submit",
+    "comments": "Comments",
+    "add_comment": "Add Comment"
+  },
+  "schemes": {
+    "title": "Government Schemes",
+    "learn_more": "Learn More",
+    "eligibility": "Eligibility",
+    "benefits": "Benefits",
+    "how_to_apply": "How to Apply"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error occurred",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "yes": "Yes",
+    "no": "No"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "app": {
+    "title": "क्रॉप विजन एक्स",
+    "home": "होम",
+    "market": "बाजार",
+    "community": "किसान समुदाय",
+    "schemes": "सरकारी योजनाएं"
+  },
+  "plant_scanner": {
+    "title": "पौधा स्कैनर",
+    "scan_button": "पौधा स्कैन करें",
+    "take_photo": "फोटो लें",
+    "select_photo": "फोटो चुनें",
+    "analyzing": "छवि का विश्लेषण हो रहा है...",
+    "result": "विश्लेषण परिणाम",
+    "disease": "बीमारी",
+    "confidence": "विश्वसनीयता",
+    "no_disease": "कोई बीमारी नहीं मिली"
+  },
+  "fertilizer": {
+    "title": "उर्वरक कैलकुलेटर",
+    "crop_type": "फसल प्रकार",
+    "area": "क्षेत्र (एकड़ में)",
+    "soil_type": "मिट्टी का प्रकार",
+    "calculate": "गणना करें",
+    "result": "अनुशंसित उर्वरक",
+    "n": "नाइट्रोजन (N)",
+    "p": "फास्फोरस (P)",
+    "k": "पोटैशियम (K)"
+  },
+  "weather": {
+    "title": "मौसम",
+    "temperature": "तापमान",
+    "humidity": "नमी",
+    "wind": "हवा की गति",
+    "description": "विवरण"
+  },
+  "market": {
+    "title": "बाजार मूल्य",
+    "crop": "फसल",
+    "price": "कीमत",
+    "market_name": "बाजार का नाम",
+    "date": "दिनांक",
+    "search": "बाजार खोजें"
+  },
+  "community": {
+    "title": "किसान समुदाय",
+    "posts": "पोस्ट",
+    "create_post": "पोस्ट बनाएं",
+    "your_question": "आपका सवाल",
+    "description": "विवरण",
+    "submit": "जमा करें",
+    "comments": "टिप्पणियां",
+    "add_comment": "टिप्पणी जोड़ें"
+  },
+  "schemes": {
+    "title": "सरकारी योजनाएं",
+    "learn_more": "और जानें",
+    "eligibility": "पात्रता",
+    "benefits": "लाभ",
+    "how_to_apply": "आवेदन कैसे करें"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि हुई",
+    "retry": "पुनः प्रयास करें",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "yes": "हाँ",
+    "no": "नहीं"
+  }
+}

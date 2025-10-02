@@ -1,0 +1,181 @@
+Crop_ID,Crop_Name,Variety,Season,NPK_Ratio,CurrentNPK_kg,FYM_kg,Vermicompost_kg,Neem_Cake_kg,Growth_Duration_Days,Soil_Type,Region,Yield_Potential_Tonnes_per_ha,pH_Range,Irrigation_Interval_Days
+AG001,Ragi,GPU 28,Kharif,3:1:1,35,75,45,25,115,Sandy loam,Karnataka,2.8,6.5-7.5,8
+AG002,Ragi,PR 202,Kharif,3:1:1,35,82,52,32,118,Loamy,Punjab,2.6,6.0-7.0,9
+AG003,Ragi,CO 15,Both,3:1:1,35,68,42,22,112,Red soil,Tamil Nadu,3.2,6.5-7.5,7
+AG004,Paddy,ADT 43,Kuruvai,4:1:1,45,85,55,35,110,Clay,Tamil Nadu,5.5,5.5-7.0,1
+AG005,Paddy,ADT 45,Samba,4:1:1,45,88,58,38,135,Alluvial,Kerala,5.8,5.5-6.5,1
+AG006,Cotton,MCU 5,Kharif,2:1:1,25,72,47,27,155,Black soil,Gujarat,2.2,6.5-8.0,12
+AG007,Cotton,MCU 13,Kharif,2:1:1,25,78,53,33,165,Deep black,Maharashtra,2.4,6.5-7.5,10
+AG008,Sugarcane,CO 86032,Annual,5:2:2,55,95,65,45,365,Alluvial,UP,95,6.5-7.5,7
+AG009,Sugarcane,CO 0238,Annual,5:2:2,55,92,62,42,355,Clay loam,Maharashtra,90,6.0-7.5,8
+AG010,Turmeric,Salem,Kharif,3:1:2.4,40,85,55,35,240,Red soil,Tamil Nadu,25,6.0-7.0,7
+AG011,Turmeric,Erode Local,Kharif,3:1:2.4,40,88,58,38,245,Clay loam,Tamil Nadu,28,6.0-7.0,8
+AG012,Turmeric,BSR 2,Both,3:1:2.4,40,82,52,32,235,Sandy loam,Kerala,24,6.5-7.5,7
+AG013,Maize,CO 6,Kharif,2:1:1,25,70,45,25,98,Red soil,Tamil Nadu,8.5,6.0-7.0,8
+AG014,Maize,COH(M) 8,Rabi,2:1:1,25,75,50,30,102,Black soil,Karnataka,9.0,6.5-7.5,7
+AG015,Groundnut,TMV 7,Kharif,1:2:3,30,65,40,25,108,Sandy loam,Tamil Nadu,2.8,6.0-7.0,10
+AG016,Groundnut,VRI 2,Rabi,1:2:3,30,68,43,28,112,Red soil,Andhra Pradesh,2.6,6.5-7.5,9
+AG017,Banana,Grand Naine,Annual,2:1:3,35,90,60,40,365,Rich loam,Kerala,45,6.0-7.5,3
+AG018,Banana,Robusta,Annual,2:1:3,35,85,55,35,360,Sandy loam,Maharashtra,42,6.5-7.0,4
+AG019,Tomato,PKM 1,Kharif,5:2.5:2,60,85,55,35,95,Well-drained,Karnataka,35,6.0-7.0,3
+AG020,Tomato,CO 3,Rabi,5:2.5:2,60,82,52,32,90,Red soil,Tamil Nadu,38,6.5-7.5,4
+AG021,Chilli,K 2,Kharif,3:1:1,35,75,50,30,155,Black soil,Andhra Pradesh,2.8,6.0-7.0,5
+AG022,Chilli,CO 4,Both,3:1:1,35,72,47,27,150,Red soil,Tamil Nadu,2.5,6.5-7.5,6
+AG023,Onion,CO 4,Rabi,3:1:1,35,70,45,25,92,Sandy loam,Maharashtra,15,6.0-7.0,4
+AG024,Onion,Aggregatum,Kharif,3:1:1,35,68,43,23,88,Red soil,Tamil Nadu,14,6.5-7.5,5
+AG025,Coconut,ECT,Annual,5:3:12,80,100,70,50,365,Sandy loam,Kerala,150,6.0-7.5,7
+AG026,Coconut,WCT,Annual,5:3:12,80,95,65,45,365,Coastal sandy,Tamil Nadu,140,6.5-7.0,8
+AG027,Pineapple,Kew,Annual,14:3:10,100,90,60,40,365,Well-drained,Kerala,35,5.5-6.5,7
+AG028,Pineapple,Queen,Annual,14:3:10,100,85,55,35,360,Loamy,Northeast,32,5.0-6.0,8
+AG029,Sapota,Cricket Ball,Annual,2:1:1,25,80,50,30,365,Sandy loam,Gujarat,15,6.5-7.5,10
+AG030,Sapota,PKM 1,Annual,2:1:1,25,75,45,25,365,Red soil,Tamil Nadu,18,6.0-7.0,9
+AG031,Ragi,ML 365,Kharif,3:1:1,35,72,48,28,120,Red soil,Karnataka,3.0,6.0-7.0,8
+AG032,Ragi,KMR 301,Both,3:1:1,35,78,51,31,116,Clay loam,Kerala,2.9,6.5-7.5,7
+AG033,Ragi,Indaf 8,Rabi,3:1:1,35,70,44,24,114,Sandy loam,Tamil Nadu,2.7,6.0-7.0,9
+AG034,Paddy,CR 1009,Samba,4:1:1,45,90,60,40,140,Clay,West Bengal,6.0,5.5-6.5,1
+AG035,Paddy,BPT 5204,Rabi,4:1:1,45,85,57,37,135,Alluvial,Andhra Pradesh,5.7,5.0-6.0,1
+AG036,Paddy,ADT 49,Kuruvai,4:1:1,45,82,54,34,115,Clay loam,Tamil Nadu,5.5,5.5-6.5,1
+AG037,Cotton,LRA 5166,Kharif,2:1:1,25,75,50,30,160,Black soil,Maharashtra,2.3,6.5-7.5,11
+AG038,Cotton,SVPR 2,Both,2:1:1,25,78,52,32,165,Deep black,Gujarat,2.5,6.0-7.0,10
+AG039,Cotton,KC 3,Kharif,2:1:1,25,72,48,28,155,Red soil,Karnataka,2.1,6.5-7.5,12
+AG040,Sugarcane,CO 62175,Annual,5:2:2,55,98,68,48,370,Alluvial,Bihar,92,6.0-7.0,7
+AG041,Sugarcane,CO M 0265,Annual,5:2:2,55,94,64,44,360,Clay loam,UP,88,6.5-7.5,8
+AG042,Sugarcane,CO 8371,Annual,5:2:2,55,96,66,46,365,Sandy loam,Maharashtra,95,6.0-7.0,7
+AG043,Turmeric,Roma,Kharif,3:1:2.4,40,86,56,36,242,Red soil,Andhra Pradesh,26,6.5-7.5,8
+AG044,Turmeric,Alleppey,Both,3:1:2.4,40,84,54,34,238,Clay loam,Kerala,27,6.0-7.0,7
+AG045,Turmeric,PTS 10,Kharif,3:1:2.4,40,88,58,38,245,Sandy loam,Tamil Nadu,29,6.5-7.5,8
+AG046,Maize,DHM 117,Rabi,2:1:1,25,73,48,28,100,Black soil,Maharashtra,8.8,6.0-7.0,8
+AG047,Maize,PMH 1,Kharif,2:1:1,25,76,51,31,105,Red soil,Punjab,9.2,6.5-7.5,7
+AG048,Maize,HM 4,Both,2:1:1,25,71,46,26,95,Sandy loam,Haryana,8.6,6.0-7.0,8
+AG049,Groundnut,TAG 24,Kharif,1:2:3,30,67,42,27,110,Sandy loam,Gujarat,2.7,6.5-7.5,9
+AG050,Groundnut,JL 24,Rabi,1:2:3,30,70,45,30,115,Red soil,Maharashtra,2.9,6.0-7.0,10
+AG051,Banana,Nendran,Annual,2:1:3,35,88,58,38,370,Rich loam,Kerala,40,6.5-7.5,3
+AG052,Banana,Red Banana,Annual,2:1:3,35,92,62,42,375,Sandy loam,Tamil Nadu,43,6.0-7.0,4
+AG053,Banana,Poovan,Annual,2:1:3,35,86,56,36,365,Clay loam,Karnataka,38,6.5-7.5,3
+AG054,Tomato,Arka Vikas,Kharif,5:2.5:2,60,83,53,33,92,Well-drained,Karnataka,36,6.0-7.0,4
+AG055,Tomato,Pusa Ruby,Rabi,5:2.5:2,60,86,56,36,98,Red soil,Maharashtra,39,6.5-7.5,3
+AG056,Chilli,G4,Both,3:1:1,35,74,49,29,152,Black soil,Karnataka,2.6,6.0-7.0,5
+AG057,Chilli,Pusa Jwala,Kharif,3:1:1,35,76,51,31,158,Red soil,Andhra Pradesh,2.9,6.5-7.5,6
+AG058,Onion,Arka Kalyan,Rabi,3:1:1,35,71,46,26,95,Sandy loam,Karnataka,16,6.0-7.0,4
+AG059,Onion,N 53,Kharif,3:1:1,35,69,44,24,90,Red soil,Maharashtra,13,6.5-7.5,5
+AG060,Coconut,TxD Hybrid,Annual,5:3:12,80,98,68,48,365,Coastal sandy,Kerala,155,6.0-7.0,7
+AG061,Ragi,HR 374,Kharif,3:1:1,35,74,49,29,118,Sandy loam,Haryana,2.9,6.5-7.5,8
+AG062,Ragi,VL 149,Rabi,3:1:1,35,71,46,26,114,Red soil,Uttarakhand,2.7,6.0-7.0,9
+AG063,Paddy,IR 64,Both,4:1:1,45,87,57,37,125,Clay,Punjab,5.8,5.5-6.5,1
+AG064,Paddy,Swarna,Kharif,4:1:1,45,89,59,39,135,Alluvial,West Bengal,6.1,5.0-6.0,1
+AG065,Cotton,Suraj,Kharif,2:1:1,25,76,51,31,162,Black soil,Gujarat,2.4,6.5-7.5,11
+AG066,Cotton,Suvin,Both,2:1:1,25,79,54,34,168,Deep black,Tamil Nadu,2.6,6.0-7.0,10
+AG067,Sugarcane,CO 419,Annual,5:2:2,55,97,67,47,368,Clay loam,Maharashtra,93,6.5-7.5,7
+AG068,Sugarcane,CO 740,Annual,5:2:2,55,95,65,45,362,Sandy loam,Karnataka,91,6.0-7.0,8
+AG069,Turmeric,Rajendra Sonia,Kharif,3:1:2.4,40,87,57,37,244,Red soil,Bihar,27,6.0-7.0,8
+AG070,Turmeric,Suguna,Both,3:1:2.4,40,85,55,35,240,Clay loam,Andhra Pradesh,28,6.5-7.5,7
+AG071,Maize,Ganga 11,Kharif,2:1:1,25,74,49,29,102,Black soil,UP,8.9,6.0-7.0,8
+AG072,Maize,Deccan 103,Rabi,2:1:1,25,77,52,32,106,Red soil,Karnataka,9.3,6.5-7.5,7
+AG073,Groundnut,GG 20,Both,1:2:3,30,69,44,29,113,Sandy loam,Gujarat,2.8,6.0-7.0,9
+AG074,Groundnut,K 6,Kharif,1:2:3,30,71,46,31,116,Red soil,Andhra Pradesh,3.0,6.5-7.5,10
+AG075,Banana,Monthan,Annual,2:1:3,35,89,59,39,372,Rich loam,Tamil Nadu,41,6.0-7.5,3
+AG076,Banana,Ney Poovan,Annual,2:1:3,35,87,57,37,368,Sandy loam,Kerala,39,6.5-7.0,4
+AG077,Tomato,Pusa Rohini,Kharif,5:2.5:2,60,84,54,34,94,Well-drained,Delhi,37,6.0-7.0,4
+AG078,Tomato,Arka Meghali,Both,5:2.5:2,60,87,57,37,96,Red soil,Karnataka,40,6.5-7.5,3
+AG079,Chilli,LCA 334,Kharif,3:1:1,35,75,50,30,154,Black soil,Telangana,2.7,6.0-7.0,5
+AG080,Chilli,Byadagi,Both,3:1:1,35,77,52,32,160,Red soil,Karnataka,3.0,6.5-7.5,6
+AG081,Onion,Bhima Super,Rabi,3:1:1,35,72,47,27,93,Sandy loam,Maharashtra,17,6.0-7.0,4
+AG082,Onion,Pusa Red,Kharif,3:1:1,35,70,45,25,91,Red soil,UP,14,6.5-7.5,5
+AG083,Coconut,Chowghat Orange,Annual,5:3:12,80,99,69,49,365,Coastal sandy,Kerala,152,6.0-7.0,7
+AG084,Ragi,VR 708,Kharif,3:1:1,35,73,48,28,117,Sandy loam,Karnataka,2.8,6.5-7.5,8
+AG085,Ragi,GPU 67,Both,3:1:1,35,75,50,30,119,Red soil,Tamil Nadu,3.1,6.0-7.0,9
+AG086,Paddy,MTU 1010,Kharif,4:1:1,45,88,58,38,130,Clay,Telangana,5.9,5.5-6.5,1
+AG087,Paddy,Jaya,Rabi,4:1:1,45,86,56,36,132,Alluvial,UP,5.6,5.0-6.0,1
+AG088,Cotton,Bunny,Kharif,2:1:1,25,77,52,32,164,Black soil,Maharashtra,2.5,6.5-7.5,11
+AG089,Cotton,DCH 32,Both,2:1:1,25,80,55,35,170,Deep black,Karnataka,2.7,6.0-7.0,10
+AG090,Sugarcane,CO 997,Annual,5:2:2,55,96,66,46,366,Clay loam,Tamil Nadu,94,6.5-7.5,7
+AG091,Sugarcane,CO 62198,Annual,5:2:2,55,94,64,44,364,Sandy loam,UP,90,6.0-7.0,8
+AG092,Turmeric,PCT 13,Kharif,3:1:2.4,40,86,56,36,243,Red soil,Tamil Nadu,28,6.0-7.0,8
+AG093,Turmeric,Krishna,Both,3:1:2.4,40,84,54,34,241,Clay loam,Andhra Pradesh,26,6.5-7.5,7
+AG094,Maize,Vivek QPM 9,Kharif,2:1:1,25,75,50,30,103,Black soil,Bihar,9.0,6.0-7.0,8
+AG095,Maize,HQPM 1,Rabi,2:1:1,25,78,53,33,107,Red soil,Haryana,9.4,6.5-7.5,7
+AG096,Groundnut,Kadiri 6,Both,1:2:3,30,70,45,30,114,Sandy loam,Andhra Pradesh,2.9,6.0-7.0,9
+AG097,Groundnut,ICGS 76,Kharif,1:2:3,30,72,47,32,117,Red soil,Gujarat,3.1,6.5-7.5,10
+AG098,Banana,Rasthali,Annual,2:1:3,35,90,60,40,374,Rich loam,Maharashtra,42,6.0-7.5,3
+AG099,Banana,Karpuravalli,Annual,2:1:3,35,88,58,38,370,Sandy loam,Tamil Nadu,40,6.5-7.0,4
+AG100,Tomato,NS 815,Both,5:2.5:2,60,85,55,35,95,Well-drained,Maharashtra,38,6.0-7.0,4
+AG101,Tomato,Lakshmi,Kharif,5:2.5:2,60,86,56,36,97,Red soil,Karnataka,39,6.5-7.5,3
+AG102,Chilli,Arka Lohit,Both,3:1:1,35,76,51,31,156,Black soil,Karnataka,2.8,6.0-7.0,5
+AG103,Chilli,Pant C-1,Kharif,3:1:1,35,78,53,33,159,Red soil,UP,3.1,6.5-7.5,6
+AG104,Onion,Bhima Kiran,Rabi,3:1:1,35,73,48,28,94,Sandy loam,Maharashtra,18,6.0-7.0,4
+AG105,Onion,Arka Pragati,Both,3:1:1,35,71,46,26,92,Red soil,Karnataka,15,6.5-7.5,5
+AG106,Coconut,Kalpa Pratibha,Annual,5:3:12,80,97,67,47,365,Coastal sandy,Kerala,153,6.0-7.0,7
+AG107,Ragi,ML 419,Kharif,3:1:1,35,74,49,29,118,Sandy loam,Karnataka,2.9,6.5-7.5,8
+AG108,Ragi,GPU 45,Both,3:1:1,35,76,51,31,120,Red soil,Tamil Nadu,3.2,6.0-7.0,9
+AG109,Paddy,CO 51,Kharif,4:1:1,45,89,59,39,133,Clay,Tamil Nadu,6.0,5.5-6.5,1
+AG110,Paddy,Uma,Rabi,4:1:1,45,87,57,37,134,Alluvial,West Bengal,5.7,5.0-6.0,1
+AG111,Cotton,Anjali,Kharif,2:1:1,25,78,53,33,166,Black soil,Gujarat,2.6,6.5-7.5,11
+AG112,Cotton,Surabhi,Both,2:1:1,25,81,56,36,171,Deep black,Maharashtra,2.8,6.0-7.0,10
+AG113,Sugarcane,CO 85004,Annual,5:2:2,55,95,65,45,367,Clay loam,UP,92,6.5-7.5,7
+AG114,Sugarcane,CO 94012,Annual,5:2:2,55,93,63,43,365,Sandy loam,Tamil Nadu,89,6.0-7.0,8
+AG115,Turmeric,Suvarna,Kharif,3:1:2.4,40,85,55,35,242,Red soil,Maharashtra,27,6.0-7.0,8
+AG116,Turmeric,Sugandham,Both,3:1:2.4,40,83,53,33,240,Clay loam,Kerala,25,6.5-7.5,7
+AG117,Maize,Nithyashree,Kharif,2:1:1,25,76,51,31,104,Black soil,Tamil Nadu,9.1,6.0-7.0,8
+AG118,Maize,Shakti 1,Rabi,2:1:1,25,79,54,34,108,Red soil,Karnataka,9.5,6.5-7.5,7
+AG119,Groundnut,Dharani,Both,1:2:3,30,71,46,31,115,Sandy loam,Telangana,3.0,6.0-7.0,9
+AG120,Groundnut,TPG 41,Kharif,1:2:3,30,73,48,33,118,Red soil,Tamil Nadu,3.2,6.5-7.5,10
+AG121,Banana,Udhayam,Annual,2:1:3,35,91,61,41,375,Rich loam,Tamil Nadu,43,6.0-7.5,3
+AG122,Banana,Saba,Annual,2:1:3,35,89,59,39,371,Sandy loam,Kerala,41,6.5-7.0,4
+AG123,Tomato,Kashi Vishesh,Both,5:2.5:2,60,86,56,36,96,Well-drained,UP,39,6.0-7.0,4
+AG124,Tomato,Arka Vikas,Kharif,5:2.5:2,60,87,57,37,98,Red soil,Karnataka,40,6.5-7.5,3
+AG125,Chilli,Arka Meghana,Both,3:1:1,35,77,52,32,157,Black soil,Andhra Pradesh,2.9,6.0-7.0,5
+AG126,Chilli,Pusa Sadabahar,Kharif,3:1:1,35,79,54,34,161,Red soil,Delhi,3.2,6.5-7.5,6
+AG127,Onion,Bhima Dark Red,Rabi,3:1:1,35,74,49,29,95,Sandy loam,Maharashtra,19,6.0-7.0,4
+AG128,Onion,Arka Niketan,Both,3:1:1,35,72,47,27,93,Red soil,Karnataka,16,6.5-7.5,5
+AG129,Coconut,Kalpa Dhenu,Annual,5:3:12,80,98,68,48,365,Coastal sandy,Kerala,154,6.0-7.0,7
+AG130,Ragi,VL 376,Kharif,3:1:1,35,75,50,30,119,Sandy loam,Uttarakhand,3.0,6.5-7.5,8
+AG131,Ragi,GPU 48,Both,3:1:1,35,77,52,32,121,Red soil,Karnataka,3.3,6.0-7.0,9
+AG132,Paddy,NDR 359,Kharif,4:1:1,45,90,60,40,134,Clay,UP,6.1,5.5-6.5,1
+AG133,Paddy,Improved Samba,Rabi,4:1:1,45,88,58,38,135,Alluvial,Tamil Nadu,5.8,5.0-6.0,1
+AG134,Cotton,Mallika,Kharif,2:1:1,25,79,54,34,167,Black soil,Maharashtra,2.7,6.5-7.5,11
+AG135,Cotton,Brahma,Both,2:1:1,25,82,57,37,172,Deep black,Gujarat,2.9,6.0-7.0,10
+AG136,Sugarcane,CO 86249,Annual,5:2:2,55,96,66,46,368,Clay loam,Maharashtra,93,6.5-7.5,7
+AG137,Sugarcane,CO 95020,Annual,5:2:2,55,94,64,44,366,Sandy loam,Karnataka,90,6.0-7.0,8
+AG138,Turmeric,Pratibha,Kharif,3:1:2.4,40,86,56,36,243,Red soil,Andhra Pradesh,28,6.0-7.0,8
+AG139,Turmeric,Kedaram,Both,3:1:2.4,40,84,54,34,241,Clay loam,Tamil Nadu,26,6.5-7.5,7
+AG140,Maize,Pusa HM 4,Kharif,2:1:1,25,77,52,32,105,Black soil,Delhi,9.2,6.0-7.0,8
+AG141,Maize,KMH 3426,Rabi,2:1:1,25,80,55,35,109,Red soil,Maharashtra,9.6,6.5-7.5,7
+AG142,Groundnut,Kadiri 9,Both,1:2:3,30,72,47,32,116,Sandy loam,Andhra Pradesh,3.1,6.0-7.0,9
+AG143,Groundnut,TMV 13,Kharif,1:2:3,30,74,49,34,119,Red soil,Tamil Nadu,3.3,6.5-7.5,10
+AG144,Banana,Pachanadan,Annual,2:1:3,35,92,62,42,376,Rich loam,Kerala,44,6.0-7.5,3
+AG145,Banana,Hill Banana,Annual,2:1:3,35,90,60,40,372,Sandy loam,Tamil Nadu,42,6.5-7.0,4
+AG146,Tomato,Arka Rakshak,Both,5:2.5:2,60,87,57,37,97,Well-drained,Karnataka,40,6.0-7.0,4
+AG147,Tomato,Punjab Chhuhara,Kharif,5:2.5:2,60,88,58,38,99,Red soil,Punjab,41,6.5-7.5,3
+AG148,Chilli,Pusa Jwala,Both,3:1:1,35,78,53,33,158,Black soil,UP,3.0,6.0-7.0,5
+AG149,Chilli,K1,Kharif,3:1:1,35,80,55,35,162,Red soil,Tamil Nadu,3.3,6.5-7.5,6
+AG150,Onion,Bhima Raj,Rabi,3:1:1,35,75,50,30,96,Sandy loam,Maharashtra,20,6.0-7.0,4
+AG151,Onion,Arka Bindu,Both,3:1:1,35,73,48,28,94,Red soil,Karnataka,17,6.5-7.5,5
+AG152,Coconut,Kalpa Mitra,Annual,5:3:12,80,99,69,49,365,Coastal sandy,Kerala,155,6.0-7.0,7
+AG153,Ragi,INDAF 7,Kharif,3:1:1,35,76,51,31,120,Sandy loam,Karnataka,3.1,6.5-7.5,8
+AG154,Ragi,GPU 66,Both,3:1:1,35,78,53,33,122,Red soil,Tamil Nadu,3.4,6.0-7.0,9
+AG155,Paddy,ADT 37,Kharif,4:1:1,45,91,61,41,135,Clay,Tamil Nadu,6.2,5.5-6.5,1
+AG156,Paddy,CR 1009,Rabi,4:1:1,45,89,59,39,136,Alluvial,West Bengal,5.9,5.0-6.0,1
+AG157,Cotton,RCH 2,Kharif,2:1:1,25,80,55,35,168,Black soil,Gujarat,2.8,6.5-7.5,11
+AG158,Cotton,Tulasi 4,Both,2:1:1,25,83,58,38,173,Deep black,Maharashtra,3.0,6.0-7.0,10
+AG159,Sugarcane,CO 0118,Annual,5:2:2,55,97,67,47,369,Clay loam,Tamil Nadu,94,6.5-7.5,7
+AG160,Sugarcane,CO 0238,Annual,5:2:2,55,95,65,45,367,Sandy loam,UP,91,6.0-7.0,8
+AG161,Turmeric,IISR Prabha,Kharif,3:1:2.4,40,87,57,37,244,Red soil,Kerala,29,6.0-7.0,8
+AG162,Turmeric,Roma,Both,3:1:2.4,40,85,55,35,242,Clay loam,Maharashtra,27,6.5-7.5,7
+AG163,Maize,DMH 849,Kharif,2:1:1,25,78,53,33,106,Black soil,Karnataka,9.3,6.0-7.0,8
+AG164,Maize,Bio 9681,Rabi,2:1:1,25,81,56,36,110,Red soil,Andhra Pradesh,9.7,6.5-7.5,7
+AG165,Groundnut,CO 7,Both,1:2:3,30,73,48,33,117,Sandy loam,Tamil Nadu,3.2,6.0-7.0,9
+AG166,Groundnut,GG 20,Kharif,1:2:3,30,75,50,35,120,Red soil,Gujarat,3.4,6.5-7.5,10
+AG167,Banana,Thellachakkarakeli,Annual,2:1:3,35,93,63,43,377,Rich loam,Kerala,45,6.0-7.5,3
+AG168,Banana,Martaman,Annual,2:1:3,35,91,61,41,373,Sandy loam,West Bengal,43,6.5-7.0,4
+AG169,Tomato,Pusa Ruby,Both,5:2.5:2,60,88,58,38,98,Well-drained,Delhi,41,6.0-7.0,4
+AG170,Tomato,Arka Saurabh,Kharif,5:2.5:2,60,89,59,39,100,Red soil,Karnataka,42,6.5-7.5,3
+AG191,Banana,Virupakshi,Annual,2:1:3,35,92,62,42,374,Sandy loam,Tamil Nadu,44,6.5-7.0,4
+AG192,Tomato,Arka Abha,Both,5:2.5:2,60,89,59,39,99,Well-drained,Karnataka,42,6.0-7.0,4
+AG193,Tomato,Pusa Sheetal,Kharif,5:2.5:2,60,90,60,40,101,Red soil,Delhi,43,6.5-7.5,3
+AG194,Chilli,Arka Suphal,Both,3:1:1,35,80,55,35,160,Black soil,Karnataka,3.2,6.0-7.0,5
+AG195,Chilli,LCA 625,Kharif,3:1:1,35,82,57,37,164,Red soil,Telangana,3.5,6.5-7.5,6
+AG196,Onion,Bhima Red,Rabi,3:1:1,35,77,52,32,98,Sandy loam,Maharashtra,22,6.0-7.0,4
+AG197,Onion,Arka Kirthiman,Both,3:1:1,35,75,50,30,96,Red soil,Karnataka,19,6.5-7.5,5
+AG198,Coconut,Kalpa Samrudhi,Annual,5:3:12,80,101,71,51,365,Coastal sandy,Kerala,157,6.0-7.0,7
+AG199,Coconut,VHC 3,Annual,5:3:12,80,99,69,49,365,Sandy loam,Tamil Nadu,154,6.5-7.5,7
+AG200,Coconut,Kera Keralam,Annual,5:3:12,80,102,72,52,365,Coastal alluvial,Kerala,158,6.0-7.0,7
