@@ -38,49 +38,64 @@ Farmer Support
 
 **Repository Structure**
 
-guvi_crop_visionx/
-│── README.md
-│── pubspec.yaml
-│── .gitignore
+1. **Root Files**
 
-│── assets/
-│   ├── images/                     # App images/icons
-│   ├── model/                      # ML models
-│   │   └── crop_disease_model.tflite
-│   └── translations/               # Language JSON files
-│       ├── en.json
-│       ├── hi.json
-│       ├── ta.json
-│       └── te.json
-│── logo.jpg
-│── Government_Schemes_for_Farmers.xlsx
-│── crop_manure_data.csv
+   * `README.md`
+   * `pubspec.yaml`
+   * `.gitignore`
 
-│── lib/
-│   ├── main.dart                   # App entry point
-│   ├── weather.dart                # Weather integration
-│   ├── database_helper.dart        # SQLite database helper
-│   │
-│   ├── models/                     # Data & AI models
-│   │   ├── community_models.dart
-│   │   └── scheme_model.dart
-│   │
-│   ├── screens/                    # UI screens
-│   │   ├── community_screen.dart
-│   │   ├── fertilizer_calculator.dart
-│   │   ├── market_screen.dart
-│   │   ├── plant_scanner_screen.dart
-│   │   └── scheme_detail_screen.dart
-│   │
-│   ├── services/                   # APIs & logic
-│   │   ├── community_service.dart
-│   │   ├── market_service.dart
-│   │   └── schemes_service.dart
-│   │
-│   └── widgets/                    # Reusable UI components
-│       ├── language_selector.dart
-│       └── scheme_carousel.dart
 
-│── linux/
-│── macos/
+2. **Assets**
+
+   * **images/** → App images/icons
+   * **model/** → ML models
+
+     * `crop_disease_model.tflite`
+   * **translations/** → Language JSON files
+
+     * `en.json`
+     * `hi.json`
+     * `ta.json`
+     * `te.json`
+      * `logo.jpg`
+   * `Government_Schemes_for_Farmers.xlsx`
+   * `crop_manure_data.csv`
+
+3. **Lib**
+
+   * `main.dart` → App entry point
+
+   * `weather.dart` → Weather integration
+
+   * `database_helper.dart` → SQLite database helper
+
+   * **models/** → Data & AI models
+
+     * `community_models.dart`
+     * `scheme_model.dart`
+
+   * **screens/** → UI screens
+
+     * `community_screen.dart`
+     * `fertilizer_calculator.dart`
+     * `market_screen.dart`
+     * `plant_scanner_screen.dart`
+     * `scheme_detail_screen.dart`
+
+   * **services/** → APIs & logic
+
+     * `community_service.dart`
+     * `market_service.dart`
+     * `schemes_service.dart`
+
+   * **widgets/** → Reusable UI components
+
+     * `language_selector.dart`
+     * `scheme_carousel.dart`
+
+4. **Platform-specific**
+
+   * `linux/`
+   * `macos/`
+
 
